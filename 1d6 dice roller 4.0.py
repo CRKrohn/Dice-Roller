@@ -12,7 +12,7 @@ def Menu() :
     while (choice != "3") :
         print("1. Roll a Die")
         print("2. Roll Multiple Dice")
-        print("____________________")
+        print("▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄")
         print("3. Exit Program")
         choice = int(input("Enter here: "))
         print()
